@@ -481,24 +481,26 @@
 #
 # print(10)
 
-def plusMinus(arr):
-    num_pos = 0
-    num_neg  = 0
-    num_zer = 0
-    for i in arr:
-        if i > 0:
-            num_pos += 1
-        elif i < 0:
-            num_neg += 1
-        else:
-            num_zer  += 1
+# def plusMinus(arr):
+#     num_pos = 0
+#     num_neg  = 0
+#     num_zer = 0
+#     for i in arr:
+#         if i > 0:
+#             num_pos += 1
+#         elif i < 0:
+#             num_neg += 1
+#         else:
+#             num_zer  += 1
 
-    positive = num_pos/len(arr)
-    negative = num_neg/len(arr)
-    zero = num_zer/len(arr)
+#     positive = num_pos/len(arr)
+#     negative = num_neg/len(arr)
+#     zero = num_zer/len(arr)
 
-    print(positive)
-    print(negative)
-    print(zero)
+#     print(positive)
+#     print(negative)
+#     print(zero)
 
-plusMinus([-4, 3, -9, 0, 4, 1])
+# plusMinus([-4, 3, -9, 0, 4, 1])
+c = [1,2,3,4,5]
+print(c[::-1])

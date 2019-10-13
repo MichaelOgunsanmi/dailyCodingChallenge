@@ -3,7 +3,7 @@ Source: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=
 
 Level: Easy
 
-Date: 5th August, 2019
+Date: 5th July, 2019
 
 '''
 

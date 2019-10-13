@@ -3,7 +3,7 @@ Source: https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interv
 
 Level: Easy
 
-Date: 5th August, 2019
+Date: 5th July, 2019
 
 '''
 

@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 12th July, 2019
+# Date: 13th July, 2019
 
 # The set S originally contains numbers from 1 to n. But unfortunately, due to the data error, one of the numbers in
 # the set got duplicated to another number in the set, which results in repetition of one number and loss of another
@@ -21,20 +21,19 @@
 from typing import List
 
 
-def findErrorNums(nums: List[int]) -> List[int]:
-    hashMap = {}
-    highestNumber = len(nums)
+class Solution:
+    def findErrorNums(self, nums: List[int]) -> List[int]:
+        hashMap = {}
+        highestNumber = len(nums)
 
-    for num in nums:
-        if hashMap.get(num) is not None:
-            duplicate = num
-        hashMap[num] = 1
+        for num in nums:
+            if hashMap.get(num) is not None:
+                duplicate = num
+            hashMap[num] = 1
 
-    for num in range(1, highestNumber+1):
-        if num not in hashMap:
-            missing = num
-            break
+        for num in range(1, highestNumber+1):
+            if num not in hashMap:
+                missing = num
+                break
 
-    return [duplicate, missing]
-
-findErrorNums([1,2,2,4])
+        return [duplicate, missing]

@@ -1,13 +1,11 @@
-'''
-Source: https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup
+# Source: https://www.hackerrank.com/challenges/repeated-string/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup
+#
+# Level: Easy
+#
+# Date: 5th July, 2019
 
-Level: Easy
 
-Date: 5th July, 2019
-
-'''
-
-'''
+"""
 Lilah has a string, , of lowercase English letters that she repeated infinitely many times.
 
 Given an integer, , find and print the number of letter a's in the first  letters of Lilah's infinite string.
@@ -24,7 +22,7 @@ s: a string to repeat
 n: the number of characters to consider
 Input Format
 
-The first line contains a single string, . 
+The first line contains a single string, .
 The second line contains an integer, .
 
 Constraints
@@ -41,7 +39,7 @@ aba
 Sample Output 0
 
 7
-Explanation 0 
+Explanation 0
 The first  letters of the infinite string are abaabaabaa. Because there are  a's, we print  on a new line.
 
 Sample Input 1
@@ -51,9 +49,10 @@ a
 Sample Output 1
 
 1000000000000
-Explanation 1 
+Explanation 1
 Because all of the first  letters of the infinite string are a, we print  on a new line.
-'''
+
+"""
 
 #Solution
 

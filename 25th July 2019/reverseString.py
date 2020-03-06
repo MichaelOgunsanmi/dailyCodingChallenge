@@ -29,4 +29,28 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
+
+        # method 1
+        left, right = 0, len(s) - 1
+        while left < right:
+            s[left], s[right] = s[right], s[left]
+            left, right = left + 1, right - 1
+
+        # method 2
+        index = 0
+        while index < int(len(s) / 2):
+            s[index], s[len(s) - 1 - index] = s[len(s) - 1 - index], s[index]
+            index += 1
+
+        # method 3
         s.reverse()
+
+        # method 4
+        if len(s) > 0:
+            self.helper(0, s)
+
+    def helper(self, index, s):
+        if index < int(len(s) / 2) - 1:
+            self.helper(index + 1, s)
+
+        s[index], s[len(s) - 1 - index] = s[len(s) - 1 - index], s[index]

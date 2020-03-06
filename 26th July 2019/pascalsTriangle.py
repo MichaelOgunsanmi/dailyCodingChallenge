@@ -26,6 +26,7 @@ from typing import List
 
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
+        # method 1
         if numRows <= 1:
             return [[1]] * numRows
 
@@ -46,3 +47,30 @@ class Solution:
             output.append(new)
 
         return output
+
+    #     #method 2
+    #     if numRows <= 1:
+    #         return [[1]] * numRows
+    #
+    #     main = []
+    #     count = 1
+    #     while count <= numRows:
+    #         output = []
+    #
+    #         i = count
+    #         j = 1
+    #         while i >= j:
+    #             output.append(self.genRec(i, j, main))
+    #             j += 1
+    #
+    #         main.append(output)
+    #         count += 1
+    #
+    #     return main
+    #
+    #
+    # def genRec(self, i, j, main):
+    #     if j == 1 or i == j:
+    #         return 1
+    #
+    #     return main[i-2][j-2] + main[i-2][j-1]

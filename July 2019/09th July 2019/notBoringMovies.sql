@@ -2,7 +2,7 @@
 
 -- Level: Easy
 
--- Date: 09th July 2019, 2019
+-- Date: 09th July 2019
 
 -- SQL Schema
 -- X city opened a new cinema, many people would like to go to this cinema. The cinema also gives out a poster indicating the movies’ ratings and descriptions.

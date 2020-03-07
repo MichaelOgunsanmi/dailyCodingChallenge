@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 15th July 2019, 2019
+# Date: 15th July 2019
 
 # Given an array of integers arr, write a function that returns true if and only if the number of occurrences of each value in the array is unique.
 #

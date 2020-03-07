@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 13th July 2019, 2019
+# Date: 13th July 2019
 
 # The count-and-say sequence is the sequence of integers with the first five terms as following:
 #

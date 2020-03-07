@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 13th July 2019, 2019
+# Date: 13th July 2019
 
 # Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 #

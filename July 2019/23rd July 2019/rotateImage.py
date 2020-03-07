@@ -2,7 +2,7 @@
 
 # Level: Medium
 
-# Date: 23rd July 2019, 2019
+# Date: 23rd July 2019
 
 
 # You are given an n x n 2D matrix representing an image.

@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 24th July 2019, 2019
+# Date: 24th July 2019
 
 # Given an array of size n, find the majority element. The majority element is the element that appears more than ⌊
 # n/2 ⌋ times.

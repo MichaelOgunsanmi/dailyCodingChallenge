@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 19th July 2019, 2019
+# Date: 19th July 2019
 
 # You are playing the following Bulls and Cows game with your friend: You write down a number and ask your friend to
 # guess what the number is. Each time your friend makes a guess, you provide a hint that indicates how many digits in

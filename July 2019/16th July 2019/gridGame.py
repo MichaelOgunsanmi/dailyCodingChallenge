@@ -2,7 +2,7 @@
 
 # Level: Medium
 
-# Date: 16th July 2019, 2019
+# Date: 16th July 2019
 
 # Complete the 'gridGame' function below.
 #

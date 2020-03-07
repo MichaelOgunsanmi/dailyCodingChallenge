@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 26th July 2019, 2019
+# Date: 26th July 2019
 
 
 # Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.

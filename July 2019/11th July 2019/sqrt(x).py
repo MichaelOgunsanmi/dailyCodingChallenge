@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 11th July 2019, 2019
+# Date: 11th July 2019
 
 # Implement int sqrt(int x).
 #

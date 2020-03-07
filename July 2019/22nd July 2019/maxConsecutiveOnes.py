@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 22nd July 2019, 2019
+# Date: 22nd July 2019
 
 # Given a binary array, find the maximum number of consecutive 1s in this array.
 #

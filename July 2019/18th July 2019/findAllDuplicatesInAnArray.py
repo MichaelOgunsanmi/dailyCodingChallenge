@@ -2,7 +2,7 @@
 
 # Level: Medium
 
-# Date: 18th July 2019, 2019
+# Date: 18th July 2019
 
 # Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once.
 #

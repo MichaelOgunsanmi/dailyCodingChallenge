@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 21st July 2019, 2019
+# Date: 21st July 2019
 
 # Given a string, you need to reverse the order of characters in each word within a sentence while still preserving
 # whitespace and initial word order.

@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 28th July 2019, 2019
+# Date: 28th July 2019
 
 """
 Given a non-empty binary tree, return the average value of the nodes on each level in the form of an array.

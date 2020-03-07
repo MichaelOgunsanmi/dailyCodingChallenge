@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 27th July 2019, 2019
+# Date: 27th July 2019
 
 
 # Given a singly linked list, determine if it is a palindrome.

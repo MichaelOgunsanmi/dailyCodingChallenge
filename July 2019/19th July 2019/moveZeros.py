@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 19th July 2019, 2019
+# Date: 19th July 2019
 
 # Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the
 # non-zero elements.

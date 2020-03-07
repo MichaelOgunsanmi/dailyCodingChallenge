@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 14th July 2019, 2019
+# Date: 14th July 2019
 
 
 # Given a 32-bit signed integer, reverse digits of an integer.

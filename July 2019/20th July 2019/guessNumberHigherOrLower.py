@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 20th July 2019, 2019
+# Date: 20th July 2019
 
 # We are playing the Guess Game. The game is as follows:
 #

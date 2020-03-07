@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 15th July 2019, 2019
+# Date: 15th July 2019
 
 # Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
 #

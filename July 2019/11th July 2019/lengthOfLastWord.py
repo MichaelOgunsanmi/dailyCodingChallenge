@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 11th July 2019, 2019
+# Date: 11th July 2019
 
 # Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last
 # word in the string.

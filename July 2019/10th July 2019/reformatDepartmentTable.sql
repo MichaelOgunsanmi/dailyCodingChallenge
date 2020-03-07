@@ -2,7 +2,7 @@
 
 -- Level: Easy
 
--- Date: 10th July 2019, 2019
+-- Date: 10th July 2019
 
 -- SQL Schema
 -- Table: Department

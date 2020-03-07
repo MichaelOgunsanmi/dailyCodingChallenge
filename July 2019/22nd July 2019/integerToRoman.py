@@ -2,7 +2,7 @@
 
 # Level: Medium
 
-# Date: 22nd July 2019, 2019
+# Date: 22nd July 2019
 
 
 # Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.

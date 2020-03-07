@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 19th July 2019, 2019
+# Date: 19th July 2019
 
 # You are playing the following Nim Game with your friend: There is a heap of stones on the table, each time one of
 # you take turns to remove 1 to 3 stones. The one who removes the last stone will be the winner. You will take the

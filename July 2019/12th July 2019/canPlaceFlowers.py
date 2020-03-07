@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 12th July 2019, 2019
+# Date: 12th July 2019
 
 # Suppose you have a long flowerbed in which some of the plots are planted and some are not. However, flowers cannot
 # be planted in adjacent plots - they would compete for water and both would die.

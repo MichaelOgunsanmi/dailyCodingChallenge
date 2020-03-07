@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 25th July 2019, 2019
+# Date: 25th July 2019
 
 # Write a function that reverses a string. The input string is given as an array of characters char[].
 #

@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 12th July 2019, 2019
+# Date: 12th July 2019
 
 # Given a sorted linked list, delete all duplicates such that each element appear only once.
 #

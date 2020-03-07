@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 14th July 2019, 2019
+# Date: 14th July 2019
 
 # Given an array nums and a value val, remove all instances of that value in-place and return the new length.
 #

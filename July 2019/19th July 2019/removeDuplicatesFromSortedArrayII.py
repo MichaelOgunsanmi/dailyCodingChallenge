@@ -2,7 +2,7 @@
 
 # Level: Medium
 
-# Date: 19th July 2019, 2019
+# Date: 19th July 2019
 
 # Given a sorted array nums, remove the duplicates in-place such that duplicates appeared at most twice and return
 # the new length.

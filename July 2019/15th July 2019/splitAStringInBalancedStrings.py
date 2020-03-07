@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 15th July 2019, 2019
+# Date: 15th July 2019
 
 # Balanced strings are those who have equal quantity of 'L' and 'R' characters.
 #

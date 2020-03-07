@@ -2,7 +2,7 @@
 
 # Level: Medium
 
-# Date: 21st July 2019, 2019
+# Date: 21st July 2019
 
 # Given an integer n, return 1 - n in lexicographical order.
 #

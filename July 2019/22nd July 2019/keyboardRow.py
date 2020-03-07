@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 22nd July 2019, 2019
+# Date: 22nd July 2019
 
 
 # Given a List of words, return the words that can be typed using letters of alphabet on only one row's of American

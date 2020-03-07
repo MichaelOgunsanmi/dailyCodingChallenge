@@ -2,7 +2,7 @@
 
 -- Level: Easy
 
--- Date: 08th July 2019, 2019
+-- Date: 08th July 2019
 
 -- SQL Schema
 -- Write a SQL query to find all duplicate emails in a table named Person.

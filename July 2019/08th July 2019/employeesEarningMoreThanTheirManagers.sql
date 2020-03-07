@@ -2,7 +2,7 @@
 
 -- Level: Easy
 
--- Date: 08th July 2019, 2019
+-- Date: 08th July 2019
 
 
 -- SQL Schema

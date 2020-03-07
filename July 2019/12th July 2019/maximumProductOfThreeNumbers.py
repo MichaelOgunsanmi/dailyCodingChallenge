@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 12th July 2019, 2019
+# Date: 12th July 2019
 
 # Given an integer array, find three numbers whose product is maximum and output the maximum product.
 #

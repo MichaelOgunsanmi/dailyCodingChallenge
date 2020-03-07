@@ -2,7 +2,7 @@
 
 -- Level: Easy
 
--- Date: 08th July 2019, 2019
+-- Date: 08th July 2019
 
 -- Write a SQL query to delete all duplicate email entries in a table named Person, keeping only unique emails based on its smallest Id.
 

@@ -2,7 +2,7 @@
 
 # Level: Medium
 
-# Date: 20th July 2019, 2019
+# Date: 20th July 2019
 
 # Given a singly linked list, return a random node's value from the linked list. Each node must have the same
 # probability of being chosen.

@@ -2,7 +2,7 @@
 
 # Level: Medium
 
-# Date: 24th July 2019, 2019
+# Date: 24th July 2019
 
 
 # Given a singly linked list, group all odd nodes together followed by the even nodes. Please note here we are

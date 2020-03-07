@@ -2,7 +2,7 @@
 
 # Level: Medium
 
-# Date: 17th July 2019, 2019
+# Date: 17th July 2019
 
 def analyzeInvestments(stringInput):  # O(n^2)
     hashMap = {}

@@ -2,7 +2,7 @@
 
 -- Level: Easy
 
--- Date: 10th July 2019, 2019
+-- Date: 10th July 2019
 
 -- SQL Schema
 -- Given a table salary, such as the one below, that has m=male and f=female values. Swap all f and m values (i.e., change all f values to m and vice versa) with a single update statement and no intermediate temp table.

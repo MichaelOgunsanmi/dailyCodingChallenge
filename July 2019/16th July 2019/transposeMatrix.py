@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 16th July 2019, 2019
+# Date: 16th July 2019
 
 # Given a matrix A, return the transpose of A.
 #

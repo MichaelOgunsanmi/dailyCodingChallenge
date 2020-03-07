@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 10th July 2019, 2019
+# Date: 10th July 2019
 
 # Given a non-empty array of non-negative integers nums, the degree of this array is defined as the maximum frequency
 # of any one of its elements.

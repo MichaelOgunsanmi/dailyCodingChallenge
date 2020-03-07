@@ -2,7 +2,7 @@
 
 -- Level: Easy
 
--- Date: 07th July 2019, 2019
+-- Date: 07th July 2019
 
  
 -- Suppose that a website contains two tables, the Customers table and the Orders table. Write a SQL query to find all customers who never order anything.

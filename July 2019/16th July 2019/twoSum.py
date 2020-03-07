@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 16th July 2019, 2019
+# Date: 16th July 2019
 
 # Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 #

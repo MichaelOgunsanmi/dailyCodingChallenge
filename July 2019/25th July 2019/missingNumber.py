@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 25th July 2019, 2019
+# Date: 25th July 2019
 
 
 # Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.

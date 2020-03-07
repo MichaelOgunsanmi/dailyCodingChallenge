@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 28th July 2019, 2019
+# Date: 28th July 2019
 
 
 """Given two binary trees and imagine that when you put one of them to cover the other, some nodes of the two trees

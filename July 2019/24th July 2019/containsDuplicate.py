@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 24th July 2019, 2019
+# Date: 24th July 2019
 
 # Given an array of integers, find if the array contains any duplicates.
 #

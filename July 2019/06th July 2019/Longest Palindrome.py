@@ -3,7 +3,7 @@ Source: https://leetcode.com/problems/longest-palindrome/
 
 Level: Easy
 
-Date: 06th July 2019, 2019
+Date: 06th July 2019
 
 '''
 

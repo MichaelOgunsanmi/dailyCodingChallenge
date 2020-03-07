@@ -2,7 +2,7 @@
 
 -- Level: Easy
 
--- Date: 09th July 2019, 2019
+-- Date: 09th July 2019
 
 -- SQL Schema
 -- Given a Weather table, write a SQL query to find all dates' Ids with higher temperature compared to its previous (yesterday's) dates.

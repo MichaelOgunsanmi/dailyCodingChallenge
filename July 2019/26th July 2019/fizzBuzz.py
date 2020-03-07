@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 26th July 2019, 2019
+# Date: 26th July 2019
 
 
 # Write a program that outputs the string representation of numbers from 1 to n.

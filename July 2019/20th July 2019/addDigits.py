@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 20th July 2019, 2019
+# Date: 20th July 2019
 
 # Given a non-negative integer num, repeatedly add all its digits until the result has only one digit.
 #

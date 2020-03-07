@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 15th July 2019, 2019
+# Date: 15th July 2019
 
 # Remove all elements from a linked list of integers that have value val.
 #

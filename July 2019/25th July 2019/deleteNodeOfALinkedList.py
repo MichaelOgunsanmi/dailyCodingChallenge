@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 25th July 2019, 2019
+# Date: 25th July 2019
 
 
 # Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.

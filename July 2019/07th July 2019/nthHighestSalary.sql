@@ -2,7 +2,7 @@
 
 -- Level: Medium
 
--- Date: 07th July 2019, 2019
+-- Date: 07th July 2019
 
 
 -- Write a SQL query to get the nth highest salary from the Employee table.

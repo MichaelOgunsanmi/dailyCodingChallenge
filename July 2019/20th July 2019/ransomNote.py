@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 20th July 2019, 2019
+# Date: 20th July 2019
 
 # Given an arbitrary ransom note string and another string containing letters from all the magazines,
 # write a function that will return true if the ransom note can be constructed from the magazines ; otherwise,

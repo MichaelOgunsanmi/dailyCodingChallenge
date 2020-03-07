@@ -2,7 +2,7 @@
 
 # Level: Medium
 
-# Date: 26th July 2019, 2019
+# Date: 26th July 2019
 
 # Given a matrix of m x n elements (m rows, n columns), return all elements of the matrix in spiral order.
 #

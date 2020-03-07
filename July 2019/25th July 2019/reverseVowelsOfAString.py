@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 25th July 2019, 2019
+# Date: 25th July 2019
 
 # Write a function that takes a string as input and reverse only the vowels of a string.
 #

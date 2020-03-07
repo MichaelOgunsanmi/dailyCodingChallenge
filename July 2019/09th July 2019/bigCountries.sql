@@ -2,7 +2,7 @@
 
 -- Level: Easy
 
--- Date: 09th July 2019, 2019
+-- Date: 09th July 2019
 
 -- SQL Schema
 -- There is a table World

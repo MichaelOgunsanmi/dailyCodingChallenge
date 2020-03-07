@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 14th July 2019, 2019
+# Date: 14th July 2019
 
 # Reverse a singly linked list.
 #

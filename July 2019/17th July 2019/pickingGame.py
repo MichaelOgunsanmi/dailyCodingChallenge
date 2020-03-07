@@ -2,7 +2,7 @@
 
 # Level: Medium
 
-# Date: 17th July 2019, 2019
+# Date: 17th July 2019
 
 def play(inputArray):
     optimalArray = []

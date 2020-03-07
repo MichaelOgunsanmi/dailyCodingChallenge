@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 22nd July 2019, 2019
+# Date: 22nd July 2019
 
 # Assume you are an awesome parent and want to give your children some cookies. But, you should give each child at
 # most one cookie. Each child i has a greed factor gi, which is the minimum size of a cookie that the child will be

@@ -2,7 +2,7 @@
 
 # Level: Medium
 
-# Date: 18th July 2019, 2019
+# Date: 18th July 2019
 
 
 # Given an array nums of n integers where n > 1,  return an array output such that output[i] is equal to the product

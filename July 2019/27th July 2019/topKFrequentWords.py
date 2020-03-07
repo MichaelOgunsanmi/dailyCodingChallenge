@@ -2,7 +2,7 @@
 
 # Level: Medium
 
-# Date: 27th July 2019, 2019
+# Date: 27th July 2019
 
 
 # Given a non-empty list of words, return the k most frequent elements.

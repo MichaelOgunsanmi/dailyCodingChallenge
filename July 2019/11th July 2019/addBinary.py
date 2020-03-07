@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 11th July 2019, 2019
+# Date: 11th July 2019
 
 # Given two binary strings, return their sum (also a binary string).
 #

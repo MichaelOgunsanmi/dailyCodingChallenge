@@ -2,7 +2,7 @@
 
 # Level: Medium
 
-# Date: 27th July 2019, 2019
+# Date: 27th July 2019
 
 
 # Find the kth largest element in an unsorted array. Note that it is the kth largest element in the sorted order,

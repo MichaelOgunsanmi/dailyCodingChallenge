@@ -2,7 +2,7 @@
 
 -- Level: Easy
 
--- Date: 07th July 2019, 2019
+-- Date: 07th July 2019
 
 -- Table: Person
 

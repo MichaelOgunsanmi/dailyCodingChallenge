@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 18th July 2019, 2019
+# Date: 18th July 2019
 
 # Alice and Bob take turns playing a game, with Alice starting first.
 #

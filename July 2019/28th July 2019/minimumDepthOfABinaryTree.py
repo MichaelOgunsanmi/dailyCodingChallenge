@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 28th July 2019, 2019
+# Date: 28th July 2019
 
 
 """

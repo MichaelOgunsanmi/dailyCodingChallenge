@@ -2,7 +2,7 @@
 #
 # Level: Medium
 #
-# Date: 31st July 2019, 2019
+# Date: 31st July 2019
 
 
 """The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows like this: (you may want to

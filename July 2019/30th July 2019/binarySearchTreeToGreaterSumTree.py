@@ -2,7 +2,7 @@
 #
 # Level: Medium
 #
-# Date: 30th July 2019, 2019
+# Date: 30th July 2019
 
 
 """

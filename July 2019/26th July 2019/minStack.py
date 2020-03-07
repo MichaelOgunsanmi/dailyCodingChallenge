@@ -2,7 +2,7 @@
 
 # Level: Easy
 
-# Date: 26th July 2019, 2019
+# Date: 26th July 2019
 
 
 # Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.

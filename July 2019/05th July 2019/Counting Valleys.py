@@ -78,6 +78,7 @@ def countingValleys(n, s):
     for number in convertedArray:
         currentSum += number
         if currentSum == -1 and previousSum == 0:
+
             valley += 1
         previousSum = currentSum
     
